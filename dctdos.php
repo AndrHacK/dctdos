@@ -24,7 +24,7 @@ document.write(unescape('%3C%73%74%79%6C%65%20%74%79%70%65%3D%22%74%65%78%74%2F%
 							fclose($abrir);
 						}
 					}
-					echo "Ataque finalizado!";
+					echo "SALDIRIYOR!";
 				}
 			?>
 		<script type="text/javascript">
